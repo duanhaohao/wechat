@@ -1,0 +1,45 @@
+/**app.wxss**/
+page{
+  background-color:#F5F5F5 ;
+}
+progress{
+  border-radius:15px; 
+  background-color:#fff;
+  overflow: hidden;
+}
+.userinfo-head{
+  width: 150rpx;
+  display: inline-block;
+}
+.userinfo-avatar{
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+}
+.font-36{
+  font-size: 36rpx;
+}
+.font-34{
+  font-size: 34rpx;
+}
+.font-28{
+  font-size: 28rpx;
+}
+.font-26{
+  font-size: 26rpx;
+}
+.font-20{
+  font-size: 20rpx;
+}
+.font-26{
+  font-size: 28rpx;
+}
+.green{
+  color: #54b71e;
+}
+.red{
+  color: #f74747;
+}
+.gary{
+  color: #a2a4a1;
+}
